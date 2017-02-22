@@ -1,0 +1,19 @@
+{
+	"Users": [
+		{
+			"username": "machin",
+			"password": "machin123",
+			"color": "rgb(232, 8, 8)"
+		},
+		{
+    "username": "truc",
+		"password": "truc123",
+    "color": "rgb(141, 192, 243)"
+		},
+		{
+    "username": "bidule",
+		"password": "bidule123",
+    "color": "rgb(72, 216, 50)"
+		}
+	]
+}
